@@ -13,6 +13,9 @@ Usando Firebase database guardo "likes" ❤️  y comentarios en Real Time.
 
 Real Native ofrece una UX y UI nativa. 
 
+![alt text](https://github.com/miuel/MaikolMusic/blob/master/logoMM.png)
+
+
 ## Para correr la app:
 
 npm install
