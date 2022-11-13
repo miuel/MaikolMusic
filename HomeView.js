@@ -6,10 +6,8 @@ import {
   Platform,
 } from 'react-native';
 
-// importo el componente de Listas de artistas
-import ArtistList from './ArtistList';
 
-// importo la funcion getArtist que contiene la data del APi fmlast
+import ArtistList from './ArtistList';
 import { getArtists } from './api-client';
 
 export default class HomeView extends Component {
